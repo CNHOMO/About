@@ -12,4 +12,4 @@ The purpose of this project is to gather almost all Chinese HOMO programmers to 
 WIP.
 
 ## 吉祥物
-小灰灰 @xiaohuihui1022
+小灰灰 [@xiaohuihui1022](https://github.com/xiaohuihui1022)
